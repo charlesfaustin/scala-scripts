@@ -2,3 +2,5 @@ scala-scripts
 =============
 
 a place to put my scala scripts
+
+*bmi_calc.scala - quick bmi calculator gui, using swing
